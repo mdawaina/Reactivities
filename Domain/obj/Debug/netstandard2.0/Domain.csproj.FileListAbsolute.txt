@@ -1,9 +1,0 @@
-E:\DotNetCoreProjects\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.deps.json
-E:\DotNetCoreProjects\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.dll
-E:\DotNetCoreProjects\Reactivities\Domain\bin\Debug\netstandard2.0\Domain.pdb
-E:\DotNetCoreProjects\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
-E:\DotNetCoreProjects\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
-E:\DotNetCoreProjects\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
-E:\DotNetCoreProjects\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
-E:\DotNetCoreProjects\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.dll
-E:\DotNetCoreProjects\Reactivities\Domain\obj\Debug\netstandard2.0\Domain.pdb
