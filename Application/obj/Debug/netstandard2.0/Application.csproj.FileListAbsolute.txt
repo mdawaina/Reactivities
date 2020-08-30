@@ -12,3 +12,17 @@ E:\DotNetCoreProjects\Reactivities\Application\obj\Debug\netstandard2.0\Applicat
 E:\DotNetCoreProjects\Reactivities\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
 E:\DotNetCoreProjects\Reactivities\Application\obj\Debug\netstandard2.0\Application.dll
 E:\DotNetCoreProjects\Reactivities\Application\obj\Debug\netstandard2.0\Application.pdb
+E:\DotNetCoreApps\Reactivities\Application\bin\Debug\netstandard2.0\Application.deps.json
+E:\DotNetCoreApps\Reactivities\Application\bin\Debug\netstandard2.0\Application.dll
+E:\DotNetCoreApps\Reactivities\Application\bin\Debug\netstandard2.0\Application.pdb
+E:\DotNetCoreApps\Reactivities\Application\bin\Debug\netstandard2.0\Domain.dll
+E:\DotNetCoreApps\Reactivities\Application\bin\Debug\netstandard2.0\Persistence.dll
+E:\DotNetCoreApps\Reactivities\Application\bin\Debug\netstandard2.0\Domain.pdb
+E:\DotNetCoreApps\Reactivities\Application\bin\Debug\netstandard2.0\Persistence.pdb
+E:\DotNetCoreApps\Reactivities\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+E:\DotNetCoreApps\Reactivities\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+E:\DotNetCoreApps\Reactivities\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+E:\DotNetCoreApps\Reactivities\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+E:\DotNetCoreApps\Reactivities\Application\obj\Debug\netstandard2.0\Application.dll
+E:\DotNetCoreApps\Reactivities\Application\obj\Debug\netstandard2.0\Application.pdb
+E:\DotNetCoreApps\Reactivities\Application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\DotNetCoreProjects\\Reactivities\\API\\API.csproj": {}
+    "E:\\DotNetCoreApps\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "e:\\DotNetCoreProjects\\Reactivities\\API\\API.csproj": {
+    "E:\\DotNetCoreApps\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\DotNetCoreProjects\\Reactivities\\API\\API.csproj",
+        "projectUniqueName": "E:\\DotNetCoreApps\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "e:\\DotNetCoreProjects\\Reactivities\\API\\API.csproj",
+        "projectPath": "E:\\DotNetCoreApps\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\m.dawaina\\.nuget\\packages\\",
-        "outputPath": "e:\\DotNetCoreProjects\\Reactivities\\API\\obj\\",
+        "outputPath": "E:\\DotNetCoreApps\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "e:\\DotNetCoreProjects\\Reactivities\\Application\\Application.csproj": {
-                "projectPath": "e:\\DotNetCoreProjects\\Reactivities\\Application\\Application.csproj"
+              "E:\\DotNetCoreApps\\Reactivities\\Application\\Application.csproj": {
+                "projectPath": "E:\\DotNetCoreApps\\Reactivities\\Application\\Application.csproj"
               }
             }
           }
@@ -64,21 +64,27 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "e:\\DotNetCoreProjects\\Reactivities\\Application\\Application.csproj": {
+    "E:\\DotNetCoreApps\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\DotNetCoreProjects\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "E:\\DotNetCoreApps\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "e:\\DotNetCoreProjects\\Reactivities\\Application\\Application.csproj",
+        "projectPath": "E:\\DotNetCoreApps\\Reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\m.dawaina\\.nuget\\packages\\",
-        "outputPath": "e:\\DotNetCoreProjects\\Reactivities\\Application\\obj\\",
+        "outputPath": "E:\\DotNetCoreApps\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -97,11 +103,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "e:\\DotNetCoreProjects\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "e:\\DotNetCoreProjects\\Reactivities\\Domain\\Domain.csproj"
+              "E:\\DotNetCoreApps\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\DotNetCoreApps\\Reactivities\\Domain\\Domain.csproj"
               },
-              "e:\\DotNetCoreProjects\\Reactivities\\Persistence\\Persistence.csproj": {
-                "projectPath": "e:\\DotNetCoreProjects\\Reactivities\\Persistence\\Persistence.csproj"
+              "E:\\DotNetCoreApps\\Reactivities\\Persistence\\Persistence.csproj": {
+                "projectPath": "E:\\DotNetCoreApps\\Reactivities\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -127,21 +133,27 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "e:\\DotNetCoreProjects\\Reactivities\\Domain\\Domain.csproj": {
+    "E:\\DotNetCoreApps\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\DotNetCoreProjects\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\DotNetCoreApps\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "e:\\DotNetCoreProjects\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "E:\\DotNetCoreApps\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\m.dawaina\\.nuget\\packages\\",
-        "outputPath": "e:\\DotNetCoreProjects\\Reactivities\\Domain\\obj\\",
+        "outputPath": "E:\\DotNetCoreApps\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -179,21 +191,27 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "e:\\DotNetCoreProjects\\Reactivities\\Persistence\\Persistence.csproj": {
+    "E:\\DotNetCoreApps\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\DotNetCoreProjects\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "E:\\DotNetCoreApps\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "e:\\DotNetCoreProjects\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "E:\\DotNetCoreApps\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\m.dawaina\\.nuget\\packages\\",
-        "outputPath": "e:\\DotNetCoreProjects\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "E:\\DotNetCoreApps\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -212,8 +230,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "e:\\DotNetCoreProjects\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "e:\\DotNetCoreProjects\\Reactivities\\Domain\\Domain.csproj"
+              "E:\\DotNetCoreApps\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\DotNetCoreApps\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
@@ -243,10 +261,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
